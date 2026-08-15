@@ -1,5 +1,9 @@
 ## `hello github`
-`i'm dhruv!`
+<p align="left">
+  <samp>
+    i'm dhruv ! currently focused on high-energy physics research with an interest in ml applications to the domain ! 
+  </samp>
+</p>
 
 <!--
 **vsqdhruv/vsqdhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
