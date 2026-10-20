@@ -1,6 +1,6 @@
 ## `hello github`
 <p align="left">
   <samp>
-    i'm dhruv! focused on high-energy physics with an interest in ml applications to the domain... currently working on neutrino physics @ NOvA ad DUNE 🌲
+    i'm dhruv! focused on high-energy physics with an interest in ml applications to the domain... currently working on neutrino physics @ NOvA and DUNE 🌌⚛️
   </samp>
 </p>
